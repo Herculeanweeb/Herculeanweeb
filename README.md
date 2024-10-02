@@ -12,8 +12,6 @@ I'm currently pursuing a Microsoft Traineeship through Serco as an IT Technician
 
 Cosplay Tracker App: A customizable app to help cosplayers track materials, deadlines, and progress.
 
-Magic: The Gathering (MTG) Deck Builder: A user-friendly app for organising and optimizing MTG decks.
-
 💪 Personal Goals:
 
 💻 Contribute to Open Source: Share and collaborate on meaningful projects in the IT and productivity spaces
